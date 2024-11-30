@@ -14,7 +14,6 @@ Aqui estão as tecnologias com as quais trabalho regularmente:
 | ![CSS](https://img.shields.io/badge/CSS-0D6EFD?style=for-the-badge&logo=css3&logoColor=white) |Intermediario |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-6610F2?style=for-the-badge&logo=javascript&logoColor=white) | Básico |
 | ![Python](https://img.shields.io/badge/Python-495057?style=for-the-badge&logo=python&logoColor=white) | Intermediário |
-| ![UX/UI](https://img.shields.io/badge/UX/UI-198754?style=for-the-badge&logo=adobe&logoColor=white) | Intermediario |
 | ![Git](https://img.shields.io/badge/Git-6F42C1?style=for-the-badge&logo=git&logoColor=white) | Intermediario |
 | ![GitHub](https://img.shields.io/badge/GitHub-343A40?style=for-the-badge&logo=github&logoColor=white) |Intermediario |
 
