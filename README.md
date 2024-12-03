@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack | Especialista em UX/UI | Mestre em Redes**
 
-Seja bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar soluções eficientes e com design centrado no usuário. Tenho uma sólida experiência em desenvolvimento web, UX/UI, e redes de computadores.
+Seja bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar soluções eficientes e com design centrado no usuário. Tenho uma sólida experiência em desenvolvimento web e redes de computadores.
 
 ## 🚀 Ferramentas e Linguagens
 
